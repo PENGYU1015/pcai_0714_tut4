@@ -19,7 +19,7 @@
 2. In this code example, the author also uses the particle line expression technique to simulate some artworks by constantly controlling the expansion and contraction direction of the particles. This technique can be used to construct other artistic images.
 
 3. 
-[link Text] (https://openprocessing.org/sketch/1593476)
+[Inspiration Link] (https://openprocessing.org/sketch/1593476)
 
 4. 
 ``` 
